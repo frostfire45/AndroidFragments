@@ -1,0 +1,2 @@
+rootProject.name = "LearningFrags"
+include ':app'
